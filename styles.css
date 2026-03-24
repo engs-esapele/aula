@@ -1,5 +1,6 @@
 body {
     background-color: rgb(66, 54, 133);
+}
 
 
 
@@ -22,7 +23,6 @@ body {
   background: transparent;
   cursor: pointer;
   margin: 20px;
-  outline: none;
   text-align: center;
   transition: all 0.3s ease;
   overflow: hidden;
@@ -39,6 +39,7 @@ body {
 .link {
     text-decoration: none;
     color: aliceblue;
+     display: block;
 }
 
 }
